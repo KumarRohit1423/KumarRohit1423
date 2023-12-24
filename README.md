@@ -1,16 +1,24 @@
-### Hi there 👋
+# I'm Rohit 👋
+**Student Developer**
+<br>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,cpp,,vim" />
+</p>
 
-<!--
-**KumarRohit1423/KumarRohit1423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+</p>
+About Me 🌟
 
-Here are some ideas to get you started:
+🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
+🌱 I’m currently learning ReactJS && Node/Express && TS
+Keep in Touch 😊
+Connect with me across platforms:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/schleidens_dev">
+<img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
+</a>
+
+Looking forward to connecting and creating amazing things together! 😊✨
