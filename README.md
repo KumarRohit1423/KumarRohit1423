@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,cpp,,vim" />
+  <img src="https://skillicons.dev/icons?i=git,cpp,js,ts,vim" />
 </p>
 
 <br>
