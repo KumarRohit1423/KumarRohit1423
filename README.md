@@ -17,7 +17,13 @@ Here to learn and build together in order to improve as a community.
 
 ## Connect with me across platforms:
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Rohitspeaks1?label=Follow&style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2FRohitspeaks1)
-![Linkedin Connect](https://img.shields.io/twitter/follow/Rohitspeaks1?label=Connect&style=for-the-badge&logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frohit-kumar-choudhary-68900522b%2F)
+<a href="https://www.linkedin.com/in/rohit-kumar-choudhary-68900522b/">
+  <img src="https://img.shields.io/badge/Connect-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frohit-kumar-choudhary-68900522b%2F" />
+</a>
+<a href="https://twitter.com/rohitspeaks1">
+  <img src="https://img.shields.io/badge/Follow-%23000000?style=for-the-badge&logo=x&link=https%3A%2F%2Ftwitter.com%2Frohitspeaks1" />
+</a>
+<br />
+<br />
 
 **Looking forward to connecting and creating amazing things together. Let's Keep in Touch! 😊✨**
