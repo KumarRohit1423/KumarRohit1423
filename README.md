@@ -13,7 +13,6 @@ Here to learn and build together in order to improve as a community.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,git,java,js,kotlin,neovim,nextjs,python,react,tailwind,ts" />
 </p>
-<br>
 
 ## Connect with me across platforms:
 
