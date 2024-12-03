@@ -4,7 +4,7 @@
 
 ## About Me
 
-- I’m currently learnig Kotlin, ReactJS, TypeScript and other prerequisite backend technologies. 
+- I’m currently learnig Rust and NextJS along with some other backend frameworks. 
 - I have intermediate experience in C++ and Java, and beginner level knowledge of Python and C#. 
 
 Here to learn and build together in order to improve as a community.
